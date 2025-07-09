@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Transition"]
+	path = Transition
+	url = https://github.com/mark-eis/transition
 [submodule "Waypoint"]
 	path = Waypoint
 	url = https://github.com/mark-eis/waypoint
